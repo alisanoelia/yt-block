@@ -1,5 +1,5 @@
 # yt-block
-yt-block is a Javascript script for min-browser (https://github.com/min-browser). This script prevents annoying ads on YouTube videos.
+yt-block is a Javascript script for min-browser (https://github.com/minbrowser/min). This script prevents annoying ads on YouTube videos.
 
 Due to Google's new policies regarding ads, use at your own risk.
 
