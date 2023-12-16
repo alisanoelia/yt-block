@@ -7,6 +7,9 @@ Due to Google's new policies regarding ads, use at your own risk.
 Follow the steps of:
 https://github.com/minbrowser/min/wiki/userscripts
 
+> [!NOTE]
+> ### Not work in private window
+
 > [!IMPORTANT]
 > ### Not Work?
 > Reboot min-browser :)

@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name     yt-block
 // @version  1.0
-// @grant    none
 // @match    https://www.youtube.com/*
 // ==/UserScript==
 
