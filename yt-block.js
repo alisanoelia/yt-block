@@ -12,7 +12,7 @@
     }
 
     function hideAds() {
-        var adElements = document.querySelectorAll('.ytd-display-ad-renderer, .ytp-ad-module, .video-ads');
+        var adElements = document.querySelectorAll('.ytd-display-ad-renderer, .ytp-ad-module, .video-ads, .ytp-ads');
 
         for (var i = 0; i < adElements.length; i++) {
             hideAd(adElements[i]);
